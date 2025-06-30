@@ -1,0 +1,5 @@
+option knitro_options 'algorithm = 3';
+solve;
+display lucro_total;
+display x;
+display _solve_time;

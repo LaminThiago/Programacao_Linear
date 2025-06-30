@@ -1,0 +1,5 @@
+solve;
+display gasto;
+display x;
+display A;
+display T;

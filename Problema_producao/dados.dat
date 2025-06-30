@@ -1,0 +1,28 @@
+set PRODUTO:= 1 2 3 4 5 6;
+set RECURSO := 1 2 3 4;
+
+param lucro :=
+1 20
+2 24
+3 27
+4 30
+5 22
+6 26
+;
+param disponibilidade :=
+1 480
+2 800
+3 650
+4 360
+;
+param consumo :
+  1 2 3 4 :=
+1 2 5 3 0
+2 3 1 2 2
+3 0 2 4 3
+4 4 3 0 4
+5 1 0 5 2
+6 2 4 1 1
+;
+
+

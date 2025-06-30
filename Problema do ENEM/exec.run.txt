@@ -1,0 +1,5 @@
+solve;
+display S/n;
+display maior_distancia;
+display x;
+display y;

@@ -1,0 +1,22 @@
+param n = 6; #n alimentos
+param m = 3; #m macro nutrientes
+param R :=
+1 90
+2 10
+3 300; #requisitos mínimos
+
+param C :=
+1 359
+2 151
+3 364
+4 278
+5 118
+6 17; #calorias
+
+param T:  1 2 3 :=
+1 7 0 79
+2 1 0 36
+3 7 3 79
+4 32 15 0
+5 22 3 0
+6 3 0 2; #nutrientes
